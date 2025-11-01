@@ -5,6 +5,7 @@
 ****APPARATUS REQUIRED:**
       . computer with i3 processor
       . scilab
+      
 **Theorey:**
  The Wiener-Khinchin theorem states that the power spectral density of a wide sense stationary random process is the Fourier transform of the corresponding autocorrelation function.
 
@@ -20,6 +21,7 @@
 •	Save the file
 •	Type your code in New Editor
 •	Save the file
+
 **PRPGRAM:**
 ```
 t=0:0.01:2*pi;
