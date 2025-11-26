@@ -38,8 +38,12 @@ fw=fft(x);
 subplot(3,2,4);
 plot(fw);
 ```
-****OUTPUT:**
 
+**GRAPH:**
 <img width="801" height="460" alt="image" src="https://github.com/user-attachments/assets/99edc4a8-faaa-4a8d-9b67-866d541738c8" />
+
+**OUTPUT:**
+![WhatsApp Image 2025-11-26 at 12 18 14_83328f39](https://github.com/user-attachments/assets/e83b3337-b4d2-4ace-a350-e6c24ffb6327)
+
 ****RESULT**
 Thus the Autocorrelation and PSD are executed in Scilab and output is verified.
